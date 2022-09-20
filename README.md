@@ -4,3 +4,12 @@
 
 This repository contains all of the notes taken by [Anastasia](https://github.com/anzhgrdva) for the [Lighthouse Labs](https://www.lighthouselabs.ca) Data Science Bootcamp.
 
+## Table of Contents
+
+* Python Course
+  * [Unit 1](/Unit_1/)
+    * [Day 1](/Unit_1/Day_1/)
+
+1. Item One 
+2. Item Two
+3. Item Three
